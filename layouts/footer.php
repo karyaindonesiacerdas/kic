@@ -11,9 +11,7 @@
         <div class="footer three">
             <!-- <h3 style="padding-left: 37px">Hubungi Kami</h3> -->
             <h3>Hubungi Kami</h3>
-            <p style="color: #908F8F; line-height: 2em; font-size: 14px"> Wisma NH Building Lantai 1 Jl. Raya Pasar Minggu No.2B-C 2 1, RT.2/RW.2, Pancoran
-
-                <span>Kec. Pancoran, Kota Jakarta Selatan</span>Daerah Khusus Ibukota Jakarta 12780.
+            <p style="color: #908F8F; line-height: 2em; font-size: 14px"> Wisma NH Building Lantai 1 Jl. Raya Pasar Minggu No.2B-C 2 1, RT.2/RW.2, Pancoran Kec. Pancoran, Kota Jakarta Selatan Daerah Khusus Ibukota Jakarta 12780.
             </p>
         </div>
 
