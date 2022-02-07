@@ -34,14 +34,9 @@
                     </li>
                     <li><a href="layanan.php">Layanan</a></li>
                     <li class="menu-has-children"><a href="">Lowongan</a>
-
                         <ul>
-
                             <li><a href="lowongan-kerja.php">Lowongan Kerja</a></li>
-
-                            <li><a href="lowongan-magang.php">Lowongan Kerja Praktek</a></li>
-
-
+                            <!-- <li><a href="lowongan-magang.php">Lowongan Kerja Praktek</a></li> -->
                         </ul>
 
                     </li>
