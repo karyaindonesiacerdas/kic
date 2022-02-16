@@ -74,7 +74,7 @@
 
 
                     <p style="text-align: justify;font-size: 20px"><b>Hubungi</b></p>
-                    <p style="text-align: justify;">Jika anda tertarik untuk bekerja di PT Karya Indonesia Cerdas dan memenuhi persyaratan diatas, segera email CV anda ke <b>info@karya-indonesia-cerdas.com</b> atau WA ke Bapak Mardiansyah <b>0821-1288-7869</b></p>
+                    <p style="text-align: justify;">Jika anda tertarik untuk bekerja di PT Karya Indonesia Cerdas dan memenuhi persyaratan diatas, segera email CV anda ke <b>info@karya-indonesia-cerdas.com</b> atau WA <b>081573309155</b></p>
 
 
 
