@@ -15,7 +15,7 @@
                 </div>
             </div>
         </div>
-        <div class="about-container wow fadeInUp">
+        <div class="about-container container wow fadeInUp">
             <div class="row">
                 <div class="about-content bg-danger">
                     <!--  <h2 class="about-title">We provide great services and ideass</h2> -->
