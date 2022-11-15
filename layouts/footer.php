@@ -38,7 +38,7 @@
             <ul>
 
                 <li><a href="index.php">Home</a></li>
-                <li><a href="portofolio.php">Portofolio</a></li>
+                <!-- <li><a href="portofolio.php">Portofolio</a></li> -->
                 <li><a href="hubungi-kami.php">Hubungi Kami</a></li>
             </ul>
         </div>

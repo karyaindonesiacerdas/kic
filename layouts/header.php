@@ -41,7 +41,7 @@
 
                     </li>
 
-                    <li><a href="portofolio.php">Portofolio</a></li>
+                    <!-- <li><a href="portofolio.php">Portofolio</a></li> -->
 
                     <li class="menu-active"><a href="hubungi-kami.php">Hubungi Kami</a></li>
             </nav>
