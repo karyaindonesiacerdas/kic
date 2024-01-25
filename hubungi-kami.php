@@ -32,10 +32,10 @@
                         <div>
                             <i class="fa fa-phone"></i>
                             <span>+62 812-3395-0085</span>
-                            <br>
+                            <!-- <br>
                             <span>+62 821-2539-2881</span>
                             <br>
-                            <span>+62 815-7330-9155 (WA)</span>
+                            <span>+62 815-7330-9155 (WA)</span> -->
                         </div>
 
                     </div>
