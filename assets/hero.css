@@ -515,6 +515,15 @@ html {
     color: white;
 }
 
+.slide-three {
+    background: url("img/inahef.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    height: 435px;
+    color: white;
+}
+
 .slide.white img {
     width: 300px;
 }
@@ -658,6 +667,14 @@ html {
         background-repeat: no-repeat;
         background-position: center;
         /*background-size: 100vw 233px;*/
+        background-size: cover;
+        height: 72vw;
+        color: white;
+    }
+    .slide-three {
+        background: url("img/inahef.jpg");
+        background-repeat: no-repeat;
+        background-position: top;
         background-size: cover;
         height: 72vw;
         color: white;
