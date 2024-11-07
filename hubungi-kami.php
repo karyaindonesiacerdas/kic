@@ -31,7 +31,7 @@
                         <br>
                         <div>
                             <i class="fa fa-phone"></i>
-                            <span>+62 812-3395-0085</span>
+                            <span>+62 877-8286-0680 (Baban Subandi)</span>
                             <!-- <br>
                             <span>+62 821-2539-2881</span>
                             <br>
